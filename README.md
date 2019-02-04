@@ -1,1 +1,1 @@
-# LOG8371 - Assurence de Qualité
+# LOG8371 - Assurance de Qualité
